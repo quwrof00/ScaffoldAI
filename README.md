@@ -2,6 +2,10 @@
 
 Scaffold AI is an advanced, AI-driven educational platform designed to act as a personalized Socratic tutor. By leveraging state-of-the-art language models and graph-based execution pipelines, it provides **instructional scaffolding**—guiding students to understand complex concepts and solve problems on their own without simply spoon-feeding them the answers.
 
+## Project Context
+
+This is an **LLM-based project** built as part of a **DBMS (Database Management Systems) assignment**. It demonstrates practical application of database design, ORM modeling, migrations (Alembic), and relational data management in a real-world AI-powered educational system.
+
 ## Key Features
 
 - **Concept Graph Generation:** Dynamically breaks down topics into micro-graphs of fundamental concepts and prerequisites.
